@@ -1,7 +1,7 @@
 # Video requirements
 
 * Bitrate: 20Megabits
-* Length: Less than or exactly 30 seconds.
+* Length: Less than or exactly 60 seconds.
 * Must be recorded at 1080p
 * Ensure that the game is not running at an odd resolution to keep the game pixel perfect in the footage.
 
