@@ -10,13 +10,16 @@ Not a requirement, but it is best if all sound clips follow the same profile and
 # How to download/update assets
 
 1 - Make sure you have Python 3.11+ installed.
+
 2 - Run assetGrabbed.py
+
 3 - Your assets folder should now be updated accordingly.
 
 
 # How to share assets.
 
 1 - Zip both your audio export and its audacity save file.
+
 2 - Name your zipFile like this:
 
 `subject_[number] (ID).zip`
@@ -25,7 +28,8 @@ Not a requirement, but it is best if all sound clips follow the same profile and
 * number being the take for a line spoken.
 
 3 - Upload your zip file to https://catbox.moe/ 
-3 - Inside assets.txt, create a newline and insert the video data as followed:
+
+4 - Inside assets.txt, create a newline and insert the video data as followed:
 
 `subject_[number] (ID).zip - LinkToZipFile`
 
